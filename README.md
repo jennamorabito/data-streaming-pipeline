@@ -1,3 +1,6 @@
+# Tutorial for creating a data streaming pipeline
+A quick rundown on how to combine Flask, Kafka, Spark, Hadoop, Docker, and Presto to generate and analyze a live a data stream.
+
 ## Instrument API server to log events to Kafka
 ```python
 #!/usr/bin/env python
